@@ -3,7 +3,7 @@ const Express=require('express')
 const path = require("path");  // Path module
 const fs=require('fs')
 // fs.writeFileSync("Details.txt",'') 
-const port=8000;
+const port=3333;
 
 const db=require('./mongoesh')
 
